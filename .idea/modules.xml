@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Tree/AVLTree/AVLTree.iml" filepath="$PROJECT_DIR$/Tree/AVLTree/AVLTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tree/BinarySearchTree/BinarySearchTree.iml" filepath="$PROJECT_DIR$/Tree/BinarySearchTree/BinarySearchTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tree/BinaryTree/BinaryTree.iml" filepath="$PROJECT_DIR$/Tree/BinaryTree/BinaryTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CSD201.iml" filepath="$PROJECT_DIR$/.idea/CSD201.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/CircularlyLinkedList/CircularlyLinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/CircularlyLinkedList/CircularlyLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tree/CompleteBinaryTree/CompleteBinaryTree.iml" filepath="$PROJECT_DIR$/Tree/CompleteBinaryTree/CompleteBinaryTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/DoublyLinkedList/DoublyLinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/DoublyLinkedList/DoublyLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heap/Heap.iml" filepath="$PROJECT_DIR$/Heap/Heap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heap/MaxHeap/MaxHeap.iml" filepath="$PROJECT_DIR$/Heap/MaxHeap/MaxHeap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heap/MinHeap/MinHeap.iml" filepath="$PROJECT_DIR$/Heap/MinHeap/MinHeap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PE/PE.iml" filepath="$PROJECT_DIR$/PE/PE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PE/PE_1/PE_1.iml" filepath="$PROJECT_DIR$/PE/PE_1/PE_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PE/PE_2/PE_2.iml" filepath="$PROJECT_DIR$/PE/PE_2/PE_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heap/PriorityQueue_HeapImplements/PriorityQueue_HeapImplements.iml" filepath="$PROJECT_DIR$/Heap/PriorityQueue_HeapImplements/PriorityQueue_HeapImplements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queues/Queues.iml" filepath="$PROJECT_DIR$/Queues/Queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/SinglyLinkedList/SinglyLinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/SinglyLinkedList/SinglyLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sort/Sort.iml" filepath="$PROJECT_DIR$/Sort/Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tree/Tree.iml" filepath="$PROJECT_DIR$/Tree/Tree.iml" />
+    </modules>
+  </component>
+</project>
