@@ -16,7 +16,8 @@ A comprehensive collection of fundamental data structures and algorithms impleme
    java Sort.BubbleSort
    ```
 
-📚 Course Info
-Course: FPT - CSD201 - Software Engineering
-Term: Fall 2024
-Language: Java
+## Course Info
+
+**Course**: CSD201 - Software Engineering  
+**Term**: Fall 2024  
+**Language**: Java
